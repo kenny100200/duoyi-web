@@ -5,6 +5,7 @@
  */
 import grid from "../view/gridDemo/grid.vue";
 import company from "../view/company/list/index.vue";
+//测试修改
 export default [
     {
         path: '/grid',
